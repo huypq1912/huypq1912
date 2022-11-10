@@ -1,4 +1,5 @@
-### Hi there 👋
+![Matrix SVG](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+<!-- ### Hi there 👋 -->
 
 <!--
 **huypq1912/huypq1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
