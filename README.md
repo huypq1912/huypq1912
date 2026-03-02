@@ -1,5 +1,5 @@
-![Matrix SVG](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
-https://shorturl.at/ejRSD
+![Matrix SVG](https://github.com/huypq1912/huypq1912/blob/main/github-snake-dark.svg)
+<!-- https://shorturl.at/ejRSD -->
 <!-- ### Hi there 👋 -->
 
 <!--
