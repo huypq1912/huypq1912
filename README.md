@@ -1,4 +1,4 @@
-![Matrix SVG](https://github.com/huypq1912/huypq1912/blob/main/github-snake-dark.svg)
+![Matrix SVG](https://github.com/huypq1912/huypq1912/blob/main/github-snake.svg)
 <!-- https://shorturl.at/ejRSD -->
 <!-- ### Hi there 👋 -->
 
